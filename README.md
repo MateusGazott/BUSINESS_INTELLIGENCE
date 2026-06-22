@@ -22,8 +22,7 @@ pandas: Essencial para a leitura, manipulação e transformação de estruturas 
 * Streamlit: Encarregada de renderizar toda a camada de interface e de interações com o usuário.
 * Sqlalchemy e psycopg2-binary: Motores de conexão e drivers que permitem ao Python disparar comandos SQL nativos e interagir com o PostgreSQL.
 
-### 3.RESULTADOS
-
+## 3.RESULTADOS
 A implementação do Data Warehouse utilizando PostgreSQL mostrou-se uma solução mais adequada para o tratamento e análise dos mais de 5 milhões de registros do conjunto de dados estudado. Os resultados obtidos evidenciaram uma melhora significativa no desempenho das consultas, com redução expressiva do tempo de resposta em comparação à abordagem baseada em arquivos CSV.
 
 Além do ganho de performance, a modelagem dimensional permitiu uma melhor organização das informações, simplificando consultas analíticas e aumentando a qualidade dos dados por meio de regras de integridade e padronização.
